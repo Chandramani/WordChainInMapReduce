@@ -1,0 +1,13 @@
+
+The objective of this application is to write a program that accepts start and end words and, using words from the dictionary, builds a word chain between them and returns the shortest word chain that solves the puzzle.Successive entries in the chain must all be real words (words that are in a dictionary), and each can differ from the previous word by just one letter. For example, you can get from "cat" to "dog" using the following chain.
+
+  cat
+  cot
+  cog
+  dog
+  
+  
+A solution to creating Word Chains by using MapReduce
+
+
+
